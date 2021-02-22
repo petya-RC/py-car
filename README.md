@@ -6,5 +6,4 @@ Raspberry Pi car &amp; OpenCV lib project.
 
 1. Add skeleton (template) program of streaming video using OpenCV;
 
-
 ###start at 14:15
